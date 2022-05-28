@@ -12,6 +12,4 @@ Skills: C / JS / HTML / CSS / PHP / PHYTON
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=berkcicekk&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=berkcicekk)  
-
 ![Profile views](https://gpvc.arturio.dev/berkcicekk)  
