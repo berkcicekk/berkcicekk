@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Berk 
-I made this project just for fun, it allows you to create nice and simple. 
+This guy is on his way to become a blockchain devolooper(
 
 Skills: C / JS / HTML / CSS / PHP / PHYTON 
 
