@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Berk 
 This guy is on his way to become a blockchain devolooper(
 
-Skills: C / JS / HTML / CSS / PHP / PHYTON 
+Skills: C / JS / SOL  
 
+![041bde138020097 62157edc2861b](https://user-images.githubusercontent.com/90208101/223751536-d1c79ad7-1979-45dd-b2c5-c09bcb1f175c.jpg)
 
 
 
