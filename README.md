@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">A passionate blockchain developer from Turkey</h3>
 
+![Blue Modern PersasfsdgIn Banner](https://github.com/berkcicekk/berkcicekk/assets/90208101/2f728df9-2c33-4a1d-9a8d-8e6e363c4d32)
 
-![MV5BNzM1ZjUwODEtOGJiMi00NmY1LTg0N2MtNzVmYTg2MDFjNTY4XkEyXkFqcGdeQXVyMTMwMTcxNjk1](https://user-images.githubusercontent.com/90208101/228279586-0d1e844e-d9e1-4554-9ded-645cddb5c110.jpg)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkcicekk&label=Profile%20views&color=0e75b6&style=flat" alt="berkcicekk" /> </p>
