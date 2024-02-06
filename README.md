@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">A passionate blockchain developer from Turkey</h3>
 
-![Blue Modern PersasfsdgIn Banner](https://github.com/berkcicekk/berkcicekk/assets/90208101/2f728df9-2c33-4a1d-9a8d-8e6e363c4d32)
+
+![da0b965a91d6a9117ac47710a5e9341c](https://github.com/berkcicekk/berkcicekk/assets/90208101/1678e06f-fd05-4acb-9702-802b7d419c66)
 
 
 
