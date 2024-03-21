@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">A passionate blockchain developer from Turkey</h3>
+<h1 align="center">🐲Berk🐲</h1>
+<h3 align="center">Quantum Explorer. Privacy Advocate. Casual Zero-Knowledge Janissaryder..</h3>
 
 <p align="center">
-  <img src="https://github.com/berkcicekk/berkcicekk/assets/90208101/7b573cc9-ad87-4d22-8022-b1ff3e6c5df5" alt="Description of image">
-</p>
+  <img src="https://github.com/berkcicekk/berkcicekk/assets/90208101/2a1a9fd9-abcf-4965-8598-7380e308b09d" alt="Description of image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkcicekk&label=Profile%20views&color=0e75b6&style=flat" alt="berkcicekk" /> </p>
 
