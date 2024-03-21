@@ -1,16 +1,9 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">A passionate blockchain developer from Turkey</h3>
 
-<h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">A passionate blockchain developer from Turkey</h3>
-
 <p align="center">
   <img src="https://github.com/berkcicekk/berkcicekk/assets/90208101/7b573cc9-ad87-4d22-8022-b1ff3e6c5df5" alt="Description of image">
 </p>
-
-
-![sagsdg](https://github.com/berkcicekk/berkcicekk/assets/90208101/7b573cc9-ad87-4d22-8022-b1ff3e6c5df5)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkcicekk&label=Profile%20views&color=0e75b6&style=flat" alt="berkcicekk" /> </p>
 
