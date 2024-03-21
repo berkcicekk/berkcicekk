@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">A passionate blockchain developer from Turkey</h3>
 
-![gittt](https://github.com/berkcicekk/berkcicekk/assets/90208101/eb304edd-59cd-468c-80c5-bbcb00672a40)
+![0adb15167d21deb8ea43b8984e58f9d0](https://github.com/berkcicekk/berkcicekk/assets/90208101/07e4faa1-77e7-43bc-9ff1-e1711c9d867d)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkcicekk&label=Profile%20views&color=0e75b6&style=flat" alt="berkcicekk" /> </p>
