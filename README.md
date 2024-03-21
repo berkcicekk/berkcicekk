@@ -1,5 +1,5 @@
 <h1 align="center">🐲Berk🐲</h1>
-<h3 align="center">Quantum Explorer. Privacy Advocate. Casual Zero-Knowledge Janissaryder..</h3>
+<h3 align="center">Quantum Explorer. Privacy Advocate. Casual Zero-Knowledge Janissaryder.</h3>
 
 <p align="center">
   <img src="https://github.com/berkcicekk/berkcicekk/assets/90208101/2a1a9fd9-abcf-4965-8598-7380e308b09d" alt="Description of image">
