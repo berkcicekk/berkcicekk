@@ -1,8 +1,6 @@
 <h1 align="center">🐲Berk🐲</h1>
 <h3 align="center">Quantum Explorer. Privacy Advocate. Casual Zero-Knowledge Janissaryder.</h3>
 
-<p align="center">
-  <img src="[https://github.com/berkcicekk/berkcicekk/assets/90208101/2a1a9fd9-abcf-4965-8598-7380e308b09d](https://github.com/berkcicekk/berkcicekk/assets/90208101/d601c38e-2974-471f-a845-5f06a7348a3b)" alt="Description of image">
 ![Group 36](https://github.com/berkcicekk/berkcicekk/assets/90208101/ab24f211-f435-4dae-909c-85f6e3a23c42)
 
 
