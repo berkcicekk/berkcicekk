@@ -2,7 +2,7 @@
 <h3 align="center">Quantum Explorer. Privacy Advocate. Casual Zero-Knowledge Janissaryder.</h3>
 
 <p align="center">
-  <img src="https://github.com/berkcicekk/berkcicekk/assets/90208101/2a1a9fd9-abcf-4965-8598-7380e308b09d" alt="Description of image">
+  <img src="[https://github.com/berkcicekk/berkcicekk/assets/90208101/2a1a9fd9-abcf-4965-8598-7380e308b09d](https://github.com/berkcicekk/berkcicekk/assets/90208101/d601c38e-2974-471f-a845-5f06a7348a3b)" alt="Description of image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkcicekk&label=Profile%20views&color=0e75b6&style=flat" alt="berkcicekk" /> </p>
 
