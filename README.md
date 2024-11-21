@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">Quantum Explorer. Privacy Advocate. Casual Zero-Knowledge Janissaryder.</h3>
+<h3 align="center">Quantum Explorer. Privacy Advocate. Casual Zero-Knowledge Janissaryder. Solana researcher</h3>
 
-- 🔭 I’m currently working on [sibervatan](https://www.sibervatan.org/)
-
-- 👨‍💻 All of my projects are available at [https://berkcicekk.github.io/portfolio/](https://berkcicekk.github.io/portfolio/)
+- 🔭 [Siber Vatan Cuberium](https://www.sibervatan.org/) Team Lead  ( 2022 – present )
+- 🔭 [Atlaspad](https://www.sibervatan.org/) Software Team Member ( 2023 - present ) 
+- 👨‍💻 [Turkcell](https://www.turkcell.com.tr/) İntern ( 2024 )
+- 👨‍💻 [SerimSoftware](https://www.serim.com.tr/) İntern ( 2023 )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
