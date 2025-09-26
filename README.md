@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">Quantum Explorer. Privacy Advocate. Casual Cyber Securıty Janissaryder. Solana researcher</h3>
 
-- 🔭 [Siber Vatan Cuberium](https://www.sibervatan.org/) Team Lead  ( 2022 – present )
 - 🔭 [Atlaspad](https://www.sibervatan.org/) Software Team Member ( 2023 - present ) 
 - 👨‍💻 [Turkcell](https://www.turkcell.com.tr/) İntern ( 2024 )
 - 👨‍💻 [SerimSoftware](https://www.serim.com.tr/) İntern ( 2023 )
