@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">Quantum Explorer. Privacy Advocate. Casual Cyber Securıty Janissaryder. Solana researcher</h3>
+<h3 align="center">Quantum Explorer. Privacy Advocate. Casual Cyber Securıty Janissaryder. Blockchain researcher</h3>
 
 - Cyrops Cyber Securty Expert
 - 🔭 [Atlaspad](https://www.sibervatan.org/) Software Team Member ( present ) 
