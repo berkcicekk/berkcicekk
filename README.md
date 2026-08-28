@@ -2,7 +2,6 @@
 <h3 align="center">Quantum Explorer. Privacy Advocate. Casual Cyber Securıty Janissaryder. Blockchain researcher</h3>
 
 - Cyrops Cyber Securty Expert
-- 🔭 [Atlaspad](https://www.sibervatan.org/) Software Team Member ( present ) 
 - 👨‍💻 [Turkcell](https://www.turkcell.com.tr/) İntern ( 2024 )
 - 👨‍💻 [SerimSoftware](https://www.serim.com.tr/) İntern ( 2023 )
 
